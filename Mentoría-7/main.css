@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(245, 245, 224);
+    margin: 5%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+form{
+    padding: 20px;
+    justify-content: center;
+    text-align: center;
+    background-color: antiquewhite;
+}
