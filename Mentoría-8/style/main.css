@@ -1,0 +1,32 @@
+* {
+  background-color: rgb(236, 247, 247);
+  font-family: monospace;
+}
+
+body html {
+  height: 100%;
+  margin: 0 auto;
+
+}
+
+.container {
+  width: 100%;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+   display: flex;
+   flex-direction: column;
+  gap:10px;
+ 
+}
+
+form {
+  width: 50%;
+  background: rgb(255, 255, 255);
+  padding: 20px;
+  border-radius: 10px;
+   display: flex;
+   flex-direction: column;
+  gap:10px;
+}
